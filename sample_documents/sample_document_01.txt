@@ -1,0 +1,13 @@
+SYNTHETIC CUSTOMER DOCUMENT - PORTFOLIO SAMPLE
+
+Record ID: R001
+Customer ID: C010
+Document Type: Passport
+Document Number: DOC-52406
+Issuing Country: United States
+Issue Date: 2023-03-19
+Expiration Date: 2028-03-17
+Verification Status: Pending
+Missing Field: None
+
+This is fictional sample data created for portfolio demonstration.
