@@ -1,0 +1,81 @@
+record_id,customer_id,document_type,document_number,issuing_country,issue_date,expiration_date,verification_status,missing_field
+R001,C010,Passport,DOC-52406,United States,2023-03-19,2028-03-17,Pending,None
+R002,C043,Passport,DOC-87883,United Kingdom,2024-12-20,2034-12-18,Verified,None
+R003,C009,Driver License,DOC-84600,United States,2024-09-05,2034-09-03,Verified,Document Number
+R004,C025,Passport,DOC-88943,India,2022-10-24,2023-10-24,Verified,Expiration Date
+R005,C002,Driver License,DOC-21690,Canada,2021-12-31,2023-12-31,Pending,Address
+R006,C008,State ID,DOC-30202,India,2023-04-05,2028-04-03,Pending,Document Number
+R007,C033,Driver License,DOC-58163,India,2022-09-28,2024-09-27,Pending,None
+R008,C006,Utility Bill,DOC-65452,United Kingdom,2023-03-06,2033-03-03,Failed,Expiration Date
+R009,C033,State ID,DOC-15300,India,2022-01-17,2032-01-15,Verified,None
+R010,C042,Passport,DOC-92517,United Kingdom,2024-08-19,2026-08-19,Pending,Expiration Date
+R011,C010,Driver License,DOC-49373,Singapore,2023-06-15,2024-06-14,Verified,Address
+R012,C005,Passport,DOC-82219,Germany,2022-05-25,2032-05-22,Verified,None
+R013,C047,State ID,DOC-96619,United Kingdom,2023-11-12,2033-11-09,Verified,Address
+R014,C048,Utility Bill,DOC-24933,Canada,2024-04-14,2025-04-14,Verified,None
+R015,C047,Utility Bill,DOC-86966,Singapore,2023-03-16,2025-12-10,Pending,None
+R016,C012,Passport,DOC-86966,Singapore,2024-07-01,2029-06-30,Failed,None
+R017,C026,Passport,DOC-10766,United States,2022-06-16,2023-06-16,Verified,None
+R018,C048,Utility Bill,DOC-96208,United Kingdom,2024-09-05,2034-09-03,Failed,Address
+R019,C026,State ID,DOC-98487,United States,2024-06-17,2029-06-16,Verified,Document Number
+R020,C014,Utility Bill,DOC-13514,Singapore,2021-10-04,2025-01-23,Verified,None
+R021,C013,Passport,DOC-80593,United Kingdom,2024-08-23,2026-08-23,Pending,Document Number
+R022,C010,Utility Bill,DOC-31771,India,2021-10-31,2031-10-29,Pending,None
+R023,C037,Utility Bill,DOC-48644,United States,2021-02-10,2031-02-08,Verified,None
+R024,C027,Utility Bill,DOC-66595,Singapore,2021-01-17,2022-01-17,Failed,Document Number
+R025,C047,Utility Bill,DOC-87468,Canada,2024-05-05,2025-07-16,Verified,Expiration Date
+R026,C005,State ID,DOC-82516,Singapore,2023-12-18,2024-12-17,Pending,None
+R027,C029,Utility Bill,DOC-55451,United States,2023-08-28,2024-08-27,Verified,Document Number
+R028,C033,Driver License,DOC-40422,Germany,2022-08-13,2024-08-12,Verified,Address
+R029,C027,State ID,DOC-61166,India,2024-05-18,2025-05-24,Verified,Document Number
+R030,C043,Utility Bill,DOC-21297,Canada,2024-06-27,2026-06-27,Verified,Document Number
+R031,C032,State ID,DOC-64523,Canada,2022-02-13,2024-02-13,Verified,None
+R032,C023,Driver License,DOC-44184,Canada,2024-02-15,2025-02-14,Failed,None
+R033,C015,Passport,DOC-90945,Germany,2021-03-07,2022-03-07,Verified,None
+R034,C050,State ID,DOC-16117,Canada,2023-09-24,2028-09-22,Failed,None
+R035,C054,Passport,DOC-69917,United States,2024-05-22,2025-05-22,Failed,Address
+R036,C007,Driver License,DOC-76493,Singapore,2024-06-02,2025-06-02,Verified,None
+R037,C032,Passport,DOC-76308,Canada,2022-02-25,2025-05-23,Verified,Address
+R038,C016,Utility Bill,DOC-76308,United Kingdom,2022-11-17,2025-04-15,Verified,Address
+R039,C041,Driver License,DOC-57270,Canada,2023-11-01,2025-06-23,Failed,Address
+R040,C055,State ID,DOC-70129,United States,2023-05-14,2025-07-14,Pending,Address
+R041,C006,State ID,DOC-19120,United Kingdom,2021-10-26,2022-10-26,Pending,Expiration Date
+R042,C037,Passport,DOC-29785,Singapore,2021-12-03,2025-01-22,Failed,Document Number
+R043,C020,State ID,DOC-82562,United Kingdom,2022-08-29,2032-08-26,Verified,Document Number
+R044,C014,Utility Bill,DOC-94394,Singapore,2022-07-27,2024-07-26,Verified,Address
+R045,C003,State ID,DOC-21046,India,2024-08-21,2034-08-19,Verified,None
+R046,C020,State ID,DOC-82323,Singapore,2023-12-02,2028-11-30,Verified,Expiration Date
+R047,C017,Driver License,DOC-87660,United Kingdom,2021-02-17,2022-02-17,Pending,Expiration Date
+R048,C041,State ID,DOC-44046,United States,2023-11-01,2024-10-31,Verified,None
+R049,C030,State ID,DOC-10683,Canada,2024-08-26,2025-08-26,Failed,Expiration Date
+R050,C051,Driver License,DOC-97414,Singapore,2024-03-04,2026-03-04,Pending,None
+R051,C030,Passport,DOC-57352,Canada,2023-12-01,2025-09-19,Pending,None
+R052,C029,Passport,DOC-38152,United Kingdom,2023-04-24,2025-07-05,Failed,Address
+R053,C041,Utility Bill,DOC-75382,India,2023-04-05,2033-04-02,Pending,Expiration Date
+R054,C009,Utility Bill,DOC-76294,Singapore,2025-02-07,2035-02-05,Pending,None
+R055,C003,Driver License,DOC-72043,Germany,2021-09-22,2022-09-22,Verified,Address
+R056,C034,Driver License,DOC-15279,United States,2021-09-01,2025-06-19,Verified,None
+R057,C051,Driver License,DOC-13667,Canada,2022-09-17,2027-09-16,Failed,Address
+R058,C014,Driver License,DOC-47156,Singapore,2023-05-14,2024-05-13,Pending,None
+R059,C027,Utility Bill,DOC-47156,Germany,2021-01-05,2022-01-05,Verified,None
+R060,C054,Driver License,DOC-72289,Canada,2024-03-04,2034-03-02,Failed,Address
+R061,C010,State ID,DOC-68861,United States,2024-07-27,2034-07-25,Failed,Document Number
+R062,C035,Passport,DOC-54433,Singapore,2024-09-22,2034-09-20,Pending,Address
+R063,C037,State ID,DOC-13251,Germany,2022-07-23,2023-07-23,Verified,Document Number
+R064,C037,Driver License,DOC-16930,India,2024-08-11,2025-10-18,Failed,Expiration Date
+R065,C002,State ID,DOC-33559,Canada,2021-02-08,2022-02-08,Verified,Expiration Date
+R066,C038,Passport,DOC-62664,India,2024-12-16,2025-09-20,Verified,None
+R067,C025,State ID,DOC-51599,United States,2022-11-28,2025-01-28,Verified,Expiration Date
+R068,C050,Passport,DOC-43496,Canada,2021-07-23,2023-07-23,Verified,None
+R069,C020,Utility Bill,DOC-17667,United States,2023-04-15,2025-06-06,Verified,None
+R070,C053,Passport,DOC-59219,United States,2021-10-19,2031-10-17,Verified,None
+R071,C008,State ID,DOC-60469,United States,2022-05-06,2024-05-05,Verified,Expiration Date
+R072,C002,State ID,DOC-40636,Germany,2023-08-10,2025-01-14,Failed,Document Number
+R073,C051,Driver License,DOC-95400,United Kingdom,2024-10-14,2025-10-14,Failed,Expiration Date
+R074,C024,Driver License,DOC-28660,Canada,2023-04-14,2025-11-17,Failed,None
+R075,C042,Driver License,DOC-47912,United States,2023-05-18,2025-08-27,Verified,Expiration Date
+R076,C023,Driver License,DOC-59827,Germany,2023-09-15,2028-09-13,Failed,Document Number
+R077,C006,Utility Bill,DOC-49405,Singapore,2022-07-31,2025-09-19,Verified,None
+R078,C033,State ID,DOC-90012,Singapore,2021-10-14,2026-10-13,Verified,None
+R079,C018,Driver License,DOC-69338,Singapore,2024-07-24,2029-07-23,Verified,Document Number
+R080,C002,Driver License,DOC-53051,Singapore,2022-12-01,2024-11-30,Verified,Expiration Date
